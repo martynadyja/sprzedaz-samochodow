@@ -1,4 +1,4 @@
-# Car sales Prediction Model
+# Car Sales Prediction Model
 ### Description
 
 
