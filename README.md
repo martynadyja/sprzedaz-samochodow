@@ -1,1 +1,1 @@
-# sprzeda-samochod-w
+# sprzedaz samochodow
