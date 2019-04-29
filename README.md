@@ -21,6 +21,11 @@
 * [Rozkład średnie wynagrodzenie](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/rozk%C5%82ad%20%C5%9Brednie%20wynagrodzenie.ipynb)
 * [Rozkład wielkość bezrobocia](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/rozk%C5%82ad%20%C5%9Brednie%20wynagrodzenie.ipynb)
 * [Random Forest Regression - ceny benzyny](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/random%20forest%20regression%20sprzeda%C5%BC%20-%20ceny%20benzyny.py)
+* [Random Forest Regression - ludność](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/random%20forest%20regression%20sprzeda%C5%BC%20-%20ludno%C5%9B%C4%87.py)
+* [Random Forest Regression - wielkość bezrobocia](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/random%20forest%20regression%20sprzeda%C5%BC%20-%20wielko%C5%9B%C4%87%20bezrobocia.py)
+* [Random Forest Regression - średni koszt kredytu](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/random%20forest%20regression%20sprzeda%C5%BC%20-%20%C5%9Bredni%20koszt%20kredytu.py)
+* [Random Forest Regression - średnie wynagrodzenie](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/random%20forest%20regression%20sprzeda%C5%BC%20-%20%C5%9Brednie%20wynagrodzenie.py)
+* [Random Forest Regression - kurs euro](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/random%20forest%20regression%20sprzeda%C5%BC-kurs%20euro.py)
 ### Programming Language
 Python
 
