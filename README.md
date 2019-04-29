@@ -20,7 +20,7 @@
 * [Rozkład liczba ludności](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/rozk%C5%82ad%20liczba%20ludno%C5%9Bci.ipynb)
 * [Rozkład średnie wynagrodzenie](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/rozk%C5%82ad%20%C5%9Brednie%20wynagrodzenie.ipynb)
 * [Rozkład wielkość bezrobocia](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/rozk%C5%82ad%20%C5%9Brednie%20wynagrodzenie.ipynb)
-* [Random Forest Regression - ceny benzyny] (https://github.com/martynadyja/sprzedaz-samochodow/blob/master/random%20forest%20regression%20sprzeda%C5%BC%20-%20ceny%20benzyny.py)
+* [Random Forest Regression](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/random%20forest%20regression%20sprzeda%C5%BC%20-%20ceny%20benzyny.py)
 ### Programming Language
 Python
 
