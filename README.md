@@ -14,6 +14,12 @@
 * [Regresja wielomianowa wielkość bezrobocia](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/regresja%20wielomianowa%20wielko%C5%9B%C4%87%20bezrobocia.ipynb)
 * [Regresja wielomianowa średnie wynagrodzenie](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/regresja%20wielomianowa%20%C5%9Brednie%20wynagordzenie.ipynb)
 * [Regresja wielomianowa kurs euro](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/regresja%20wilomianowa%20kurs%20euro.ipynb)
+* [Rozkład ceny beznyny](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/rozk%C5%82ad%20ceny%20beznyny.ipynb)
+* [Rozkład koszt kredytu](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/rozk%C5%82ad%20koszt%20kredytu.ipynb)
+* [Rozkład kurs euro](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/rozk%C5%82ad%20kurs%20euro.ipynb)
+* [Rozkład liczba ludności](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/rozk%C5%82ad%20liczba%20ludno%C5%9Bci.ipynb)
+* [Rozkład średnie wynagrodzenie](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/rozk%C5%82ad%20%C5%9Brednie%20wynagrodzenie.ipynb)
+* [Rozkład wielkość bezrobocia](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/rozk%C5%82ad%20%C5%9Brednie%20wynagrodzenie.ipynb)
 
 ### Programming Language
 Python
@@ -27,3 +33,4 @@ Anaconda
 ### Sources
 https://www.geeksforgeeks.org/linear-regression-python-implementation/?fbclid=IwAR2gekEUHRi8pQXuJw8CMuJuLel7ZNIIK5zRcQJHz9QBy-IstsGXVCtgBNs (25.03.2019)
 https://towardsdatascience.com/polynomial-regression-bbe8b9d97491 (28.04.2019)
+https://docs.scipy.org/doc/numpy/reference/generated/numpy.random.normal.html (28.04.2019)
