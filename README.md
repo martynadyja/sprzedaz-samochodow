@@ -39,3 +39,5 @@ Anaconda
 https://www.geeksforgeeks.org/linear-regression-python-implementation/?fbclid=IwAR2gekEUHRi8pQXuJw8CMuJuLel7ZNIIK5zRcQJHz9QBy-IstsGXVCtgBNs (25.03.2019)
 https://towardsdatascience.com/polynomial-regression-bbe8b9d97491 (28.04.2019)
 https://docs.scipy.org/doc/numpy/reference/generated/numpy.random.normal.html (28.04.2019)
+https://github.com/mahesh147/Random-Forest-Regression/blob/master/random_forest_regression.py (28.04.2019)
+https://www.geeksforgeeks.org/python-decision-tree-regression-using-sklearn/ (28.04.2019)
