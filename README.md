@@ -31,6 +31,8 @@
 * [Ocena modelu egresja wielomianowa średnie wynagordzenie](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/leave%20one%20out%20regresja%20wielomianowa%20%C5%9Brednie%20wynagordzenie.ipynb)
 * [Ocena modelu egresja wielomianowa wielkość bezrobocia](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/leave%20one%20out%20regresja%20wielomianowa%20wielko%C5%9B%C4%87%20bezrobocia.ipynb)
 * [Multiple Linear Regression](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/multiple%20regression.ipynb)
+* [Ocena modelu Random Forest Regression - ceny benzyny](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/LOO%20ceny%20benzyny.py)
+
 ### Programming Language
 Python
 
