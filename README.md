@@ -55,4 +55,6 @@ https://github.com/mahesh147/Random-Forest-Regression/blob/master/random_forest_
 https://www.geeksforgeeks.org/python-decision-tree-regression-using-sklearn/ (28.04.2019)
 https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.LeaveOneOut.html (12.04.2019)
 http://www.thejavageek.com/2018/02/14/multiple-linear-regression/ (12.04.2019)
+https://codeburst.io/cross-validation-calculating-r%C2%B2-and-accuracy-scores-after-loocv-5bd1015a50ec (12.05.2019)
+
 
