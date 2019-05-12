@@ -27,6 +27,9 @@
 * [Random Forest Regression - średni koszt kredytu](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/random%20forest%20regression%20sprzeda%C5%BC%20-%20%C5%9Bredni%20koszt%20kredytu.py)
 * [Random Forest Regression - średnie wynagrodzenie](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/random%20forest%20regression%20sprzeda%C5%BC%20-%20%C5%9Brednie%20wynagrodzenie.py)
 * [Random Forest Regression - kurs euro](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/random%20forest%20regression%20sprzeda%C5%BC-kurs%20euro.py)
+* [Ocena modelu egresja wielomianowa koszt kredytu](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/leave%20one%20out%20regresja%20wielomianowa%20koszt%20kredytu.ipynb)
+* [Ocena modelu egresja wielomianowa średnie wynagordzenie](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/leave%20one%20out%20regresja%20wielomianowa%20%C5%9Brednie%20wynagordzenie.ipynb)
+* [Ocena modelu egresja wielomianowa wielkość bezrobocia](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/leave%20one%20out%20regresja%20wielomianowa%20wielko%C5%9B%C4%87%20bezrobocia.ipynb)
 ### Programming Language
 Python
 
@@ -42,3 +45,4 @@ https://towardsdatascience.com/polynomial-regression-bbe8b9d97491 (28.04.2019)
 https://docs.scipy.org/doc/numpy/reference/generated/numpy.random.normal.html (28.04.2019)
 https://github.com/mahesh147/Random-Forest-Regression/blob/master/random_forest_regression.py (28.04.2019)
 https://www.geeksforgeeks.org/python-decision-tree-regression-using-sklearn/ (28.04.2019)
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.LeaveOneOut.html (12.04.2019)
