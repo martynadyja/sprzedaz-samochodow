@@ -32,6 +32,11 @@
 * [Ocena modelu egresja wielomianowa wielkość bezrobocia](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/leave%20one%20out%20regresja%20wielomianowa%20wielko%C5%9B%C4%87%20bezrobocia.ipynb)
 * [Multiple Linear Regression](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/multiple%20regression.ipynb)
 * [Ocena modelu Random Forest Regression - ceny benzyny](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/LOO%20ceny%20benzyny.py)
+* [Ocena modelu Random Forest Regression - kurs euro](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/LOO%20kurs%20euro.py)
+* [Ocena modelu Random Forest Regression - ludność](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/LOO%20ludno%C5%9B%C4%87.py)
+* [Ocena modelu Random Forest Regression - wielkość bezrobocia](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/LOO%20wielko%C5%9B%C4%87%20bezrobocia.py)
+* [Ocena modelu Random Forest Regression - średni koszt kredytu](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/LOO%20%C5%9Bredni%20koszt%20kredytu.py)
+* [Ocena modelu Random Forest Regression - wynagrodzenie](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/LOO%20%C5%9Brednie%20wynagrodzenie.py)
 
 ### Programming Language
 Python
@@ -50,3 +55,4 @@ https://github.com/mahesh147/Random-Forest-Regression/blob/master/random_forest_
 https://www.geeksforgeeks.org/python-decision-tree-regression-using-sklearn/ (28.04.2019)
 https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.LeaveOneOut.html (12.04.2019)
 http://www.thejavageek.com/2018/02/14/multiple-linear-regression/ (12.04.2019)
+
