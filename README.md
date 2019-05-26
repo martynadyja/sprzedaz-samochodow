@@ -7,6 +7,7 @@
 * [Regresja liniowa](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/linear%20regresssion.ipynb)
 * [Regresja wielomianowa drugiego stopnia](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/polynomial%20regression%20degree%202.ipynb)
 * [Regresja wielomianowa trzeciego stopnia](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/polynomial%20regression%20degree%203.ipynb)
+* [Regresja Gaussa](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/gaussian%20regression%20.ipynb)
 * [Random Forest Regression - ceny benzyny](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/random%20forest%20regression%20sprzeda%C5%BC%20-%20ceny%20benzyny.py)
 * [Random Forest Regression - ludność](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/random%20forest%20regression%20sprzeda%C5%BC%20-%20ludno%C5%9B%C4%87.py)
 * [Random Forest Regression - ludność (wersja 2)](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/random-forest-regression-sprzedaż-ludność2.ipynb)
