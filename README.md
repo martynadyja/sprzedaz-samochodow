@@ -44,5 +44,6 @@ https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.LeaveO
 http://www.thejavageek.com/2018/02/14/multiple-linear-regression/ (12.04.2019)
 https://codeburst.io/cross-validation-calculating-r%C2%B2-and-accuracy-scores-after-loocv-5bd1015a50ec (12.05.2019)
 https://realpython.com/linear-regression-in-python/ (18.05.2019)
+https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.GaussianProcessRegressor.html (25.05.2019)
 
 
