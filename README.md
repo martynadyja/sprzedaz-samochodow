@@ -8,22 +8,7 @@
 * [Regresja wielomianowa drugiego stopnia](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/polynomial%20regression%20degree%202.ipynb)
 * [Regresja wielomianowa trzeciego stopnia](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/polynomial%20regression%20degree%203.ipynb)
 * [Regresja Gaussa](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/gaussian%20regression%20.ipynb)
-* [Random Forest Regression - ceny benzyny](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/random%20forest%20regression%20sprzeda%C5%BC%20-%20ceny%20benzyny.py)
-* [Random Forest Regression - ludność](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/random%20forest%20regression%20sprzeda%C5%BC%20-%20ludno%C5%9B%C4%87.py)
-* [Random Forest Regression - ludność (wersja 2)](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/random-forest-regression-sprzedaż-ludność2.ipynb)
-* [Random Forest Regression - wielkość bezrobocia](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/random%20forest%20regression%20sprzeda%C5%BC%20-%20wielko%C5%9B%C4%87%20bezrobocia.py)
-* [Random Forest Regression - średni koszt kredytu](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/random%20forest%20regression%20sprzeda%C5%BC%20-%20%C5%9Bredni%20koszt%20kredytu.py)
-* [Random Forest Regression - średnie wynagrodzenie](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/random%20forest%20regression%20sprzeda%C5%BC%20-%20%C5%9Brednie%20wynagrodzenie.py)
-* [Random Forest Regression - kurs euro](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/random%20forest%20regression%20sprzeda%C5%BC-kurs%20euro.py)
-* [Ocena modelu egresja wielomianowa koszt kredytu](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/leave%20one%20out%20regresja%20wielomianowa%20koszt%20kredytu.ipynb)
-* [Ocena modelu egresja wielomianowa średnie wynagordzenie](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/leave%20one%20out%20regresja%20wielomianowa%20%C5%9Brednie%20wynagordzenie.ipynb)
-* [Ocena modelu egresja wielomianowa wielkość bezrobocia](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/leave%20one%20out%20regresja%20wielomianowa%20wielko%C5%9B%C4%87%20bezrobocia.ipynb)
-* [Ocena modelu Random Forest Regression - ceny benzyny](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/LOO%20ceny%20benzyny.py)
-* [Ocena modelu Random Forest Regression - kurs euro](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/LOO%20kurs%20euro.py)
-* [Ocena modelu Random Forest Regression - ludność](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/LOO%20ludno%C5%9B%C4%87.py)
-* [Ocena modelu Random Forest Regression - wielkość bezrobocia](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/LOO%20wielko%C5%9B%C4%87%20bezrobocia.py)
-* [Ocena modelu Random Forest Regression - średni koszt kredytu](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/LOO%20%C5%9Bredni%20koszt%20kredytu.py)
-* [Ocena modelu Random Forest Regression - wynagrodzenie](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/LOO%20%C5%9Brednie%20wynagrodzenie.py)
+* [Random Forest Regressio](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/random%20forest%20regression.py)
 
 ### Programming Language
 Python
