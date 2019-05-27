@@ -8,7 +8,7 @@
 * [Regresja wielomianowa drugiego stopnia](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/polynomial%20regression%20degree%202.ipynb)
 * [Regresja wielomianowa trzeciego stopnia](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/polynomial%20regression%20degree%203.ipynb)
 * [Regresja Gaussa](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/gaussian%20regression%20.ipynb)
-* [Random Forest Regressio](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/random%20forest%20regression.py)
+* [Random Forest Regression](https://github.com/martynadyja/sprzedaz-samochodow/blob/master/random%20forest%20regression.py)
 
 ### Programming Language
 Python
