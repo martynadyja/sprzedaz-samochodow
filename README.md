@@ -16,8 +16,6 @@ Python
 ### Packages
 Anaconda
 
-### How to use
-
 
 ### Sources
 https://www.geeksforgeeks.org/linear-regression-python-implementation/?fbclid=IwAR2gekEUHRi8pQXuJw8CMuJuLel7ZNIIK5zRcQJHz9QBy-IstsGXVCtgBNs (25.03.2019)
