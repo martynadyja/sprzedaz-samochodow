@@ -15,6 +15,15 @@ Python
 
 ### Packages
 Anaconda
+biblioteki:
+-numpy
+-pandas
+-sklearn.model_selection
+-sklearn.gaussian_process 
+-sklearn.gaussian_process.kernels 
+-sklearn.linear_model 
+-sklearn.preprocessing 
+-sklearn.ensemble 
 
 
 ### Sources
